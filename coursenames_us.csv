@@ -1,0 +1,234 @@
+﻿,Class Year Group,Class,Code_S1,Code_S2,Course,Curr,Group,Cohort,Dept
+1,G10 - Secondary,ART AB,4514,4515,Art,EA,A,1,EA
+2,G10 - Secondary,ART CD,4512,4513,Art,EA,A,2,EA
+3,G10 - Secondary,ART EF,4510,4511,Art,EA,A,3,EA
+4,G10 - Secondary,DRA AB-1,4524,4525,Drama,EA,A,1,EA
+5,G10 - Secondary,DRA AB-2,4524,4525,Drama,EA,A,2,EA
+6,G10 - Secondary,DRA CD-1,4522,4523,Drama,EA,A,3,EA
+7,G10 - Secondary,DRA EF,4520,4521,Drama,EA,A,4,EA
+8,G10 - Secondary,MUSIC AB,4532,4533,Music,EA,AB,1,EA
+9,G10 - Secondary,MUSIC CD,4530,4531,Music,EA,CD,2,EA
+10,G10 - Secondary,BUS AB-1,4214,4215,Business,IGSCE,AB,1,Humanities
+11,G10 - Secondary,BUS AB-2,4214,4215,Business,IGSCE,AB,2,Humanities
+12,G10 - Secondary,BUS CD-2,4212,4213,Business,IGSCE,CD,1,Humanities
+13,G10 - Secondary,BUS EF,4210,4211,Business,IGSCE,EF,1,Humanities
+14,G10 - Secondary,ECO AB-1,4226,4227,Economics,IGSCE,AB,1,Humanities
+15,G10 - Secondary,ECO AB-2,4226,4227,Economics,IGSCE,AB,2,Humanities
+16,G10 - Secondary,ECO CD-1,4224,4225,Economics,IGSCE,CD,1,Humanities
+17,G10 - Secondary,ECO CD-2,4224,4225,Economics,IGSCE,CD,2,Humanities
+18,G10 - Secondary,ECO EF,4222,4223,Economics,IGSCE,EF,1,Humanities
+19,G10 - Secondary,ECO G,4220,4221,Economics,IGSCE,GH,1,Humanities
+20,G10 - Secondary,ECO H,4220,4221,Economics,IGSCE,GH,2,Humanities
+29,G10 - Secondary,GEO AB-1,4234,4235,Geography,IGSCE,AB,1,Humanities
+30,G10 - Secondary,GEO AB-2,4234,4235,Geography,IGSCE,AB,2,Humanities
+31,G10 - Secondary,GEO CD-1,4232,4233,Geography,IGSCE,CD,1,Humanities
+32,G10 - Secondary,GEO EF,4230,4231,Geography,IGSCE,EF,1,Humanities
+21,G10 - Secondary,GEO-A,4410,4411,Geography(N),National,A,1,Humanities
+22,G10 - Secondary,GEO-B,4710,4711,Geography(N),National,A,2,Humanities
+23,G10 - Secondary,GEO-C,4710,4711,Geography(N),National,A,3,Humanities
+24,G10 - Secondary,GEO-D,4710,4711,Geography(N),National,A,4,Humanities
+25,G10 - Secondary,GEO-E,4710,4711,Geography(N),National,A,5,Humanities
+26,G10 - Secondary,GEO-F,4710,4711,Geography(N),National,A,6,Humanities
+27,G10 - Secondary,GEO-G,4710,4711,Geography(N),National,A,7,Humanities
+28,G10 - Secondary,GEO-H,4710,4711,Geography(N),National,A,8,Humanities
+33,G10 - Secondary,HIS-A,4720,4721,History,National,A,1,Humanities
+34,G10 - Secondary,HIS-B,4720,4721,History,National,A,2,Humanities
+35,G10 - Secondary,HIS-C,4720,4721,History,National,A,3,Humanities
+36,G10 - Secondary,HIS-D,4720,4721,History,National,A,4,Humanities
+37,G10 - Secondary,HIS-E,4720,4721,History,National,A,5,Humanities
+38,G10 - Secondary,HIS-F,4720,4721,History,National,A,6,Humanities
+39,G10 - Secondary,POL A,4730,4731,Politics,National,A,1,Humanities
+40,G10 - Secondary,POL B,4730,4731,Politics,National,A,2,Humanities
+41,G10 - Secondary,POL C,4730,4731,Politics,National,A,3,Humanities
+42,G10 - Secondary,POL D,4730,4731,Politics,National,A,4,Humanities
+43,G10 - Secondary,POL E,4730,4731,Politics,National,A,5,Humanities
+44,G10 - Secondary,POL F,4730,4731,Politics,National,A,6,Humanities
+45,G10 - Secondary,POL G,4730,4731,Politics,National,A,7,Humanities
+46,G10 - Secondary,POL H,4730,4731,Politics,National,A,8,Humanities
+56,G10 - Secondary,English-1st A,4620,4621,English,ESL,A,1,Languages
+57,G10 - Secondary,English-2nd B,4630,4631,English,ESL,B,1,Languages
+58,G10 - Secondary,English-2nd C,4630,4631,English,ESL,C,1,Languages
+59,G10 - Secondary,English-2nd D,4630,4631,English,ESL,D,1,Languages
+60,G10 - Secondary,English-2nd E,4630,4631,English,ESL,E,1,Languages
+61,G10 - Secondary,English-2nd F,4630,4631,English,ESL,F,1,Languages
+62,G10 - Secondary,English-1 Year G,4610,4611,English,ESL,G,1,Languages
+63,G10 - Secondary,English-1 Year H,4610,4611,English,ESL,H,1,Languages
+47,G10 - Secondary,Chinese A,4440,4441,Chinese,National,A,1,Languages
+48,G10 - Secondary,Chinese A(2),4440,4441,Chinese,National,A,2,Languages
+49,G10 - Secondary,Chinese B,4440,4441,Chinese,National,A,3,Languages
+50,G10 - Secondary,Chinese C,4440,4441,Chinese,National,A,4,Languages
+51,G10 - Secondary,Chinese D,4440,4441,Chinese,National,A,5,Languages
+52,G10 - Secondary,Chinese E,4440,4441,Chinese,National,A,6,Languages
+53,G10 - Secondary,Chinese F,4440,4441,Chinese,National,A,7,Languages
+54,G10 - Secondary,Chinese G,4440,4441,Chinese,National,A,8,Languages
+55,G10 - Secondary,Chinese H,4440,4441,Chinese,National,A,9,Languages
+64,G10 - Secondary,PE-A,4710,4711,PE,PE,A,1,PE
+65,G10 - Secondary,PE-B,4710,4711,PE,PE,A,2,PE
+66,G10 - Secondary,PE-C,4710,4711,PE,PE,A,3,PE
+67,G10 - Secondary,PE-D,4710,4711,PE,PE,A,4,PE
+68,G10 - Secondary,PE-E,4710,4711,PE,PE,A,5,PE
+69,G10 - Secondary,PE-F,4710,4711,PE,PE,A,6,PE
+70,G10 - Secondary,PE-G,4710,4711,PE,PE,A,7,PE
+71,G10 - Secondary,PE-H,4710,4711,PE,PE,A,8,PE
+72,G10 - Secondary,BIO AB-1,4114,4115,Biology,IGSCE,AB,1,STEM
+73,G10 - Secondary,BIO AB-2,4114,4115,Biology,IGSCE,AB,2,STEM
+74,G10 - Secondary,BIO CD-1,4112,4113,Biology,IGSCE,CD,1,STEM
+75,G10 - Secondary,BIO CD-2,4112,4113,Biology,IGSCE,CD,2,STEM
+76,G10 - Secondary,BIO EF,4110,4111,Biology,IGSCE,EF,1,STEM
+77,G10 - Secondary,CHE-A,4120,4121,Chemistry,IGSCE,A,1,STEM
+78,G10 - Secondary,CHE-B,4120,4121,Chemistry,IGSCE,A,2,STEM
+79,G10 - Secondary,CHE-C,4120,4121,Chemistry,IGSCE,A,3,STEM
+80,G10 - Secondary,CHE-D,4120,4121,Chemistry,IGSCE,A,4,STEM
+81,G10 - Secondary,CHE-E,4120,4121,Chemistry,IGSCE,A,5,STEM
+82,G10 - Secondary,CHE-F,4120,4121,Chemistry,IGSCE,A,6,STEM
+83,G10 - Secondary,CHE-G,4120,4121,Chemistry,IGSCE,A,7,STEM
+84,G10 - Secondary,CHE-H,4120,4121,Chemistry,IGSCE,A,8,STEM
+85,G10 - Secondary,ICT-A,4130,4131,ICT,IGSCE,A,1,STEM
+86,G10 - Secondary,ICT-B,4130,4131,ICT,IGSCE,A,2,STEM
+87,G10 - Secondary,ICT-C,4130,4131,ICT,IGSCE,A,3,STEM
+88,G10 - Secondary,ICT-D,4130,4131,ICT,IGSCE,A,4,STEM
+89,G10 - Secondary,ICT-E,4130,4131,ICT,IGSCE,A,5,STEM
+90,G10 - Secondary,ICT-F,4130,4131,ICT,IGSCE,A,6,STEM
+91,G10 - Secondary,ABC-1 (Advanced),4154,4155,Maths,IGSCE,A,1,STEM
+92,G10 - Secondary,ABC-2 (Fast 1),4152,4153,Maths,IGSCE,B,1,STEM
+93,G10 - Secondary,ABC-3 (Fast 2),4152,4153,Maths,IGSCE,B,2,STEM
+94,G10 - Secondary,ABC-4 (Regular 1),4150,4151,Maths,IGSCE,C,1,STEM
+95,G10 - Secondary,DEF-1 (Fast 3),4146,4147,Maths,IGSCE,D,1,STEM
+96,G10 - Secondary,DEF-3 (Regular 2),4144,4145,Maths,IGSCE,EF,1,STEM
+97,G10 - Secondary,DEF-4 (Regular 3),4144,4145,Maths,IGSCE,EF,2,STEM
+98,G10 - Secondary,GH- 2 (Fast 5),4142,4143,Maths,IGSCE,GH,2,STEM
+99,G10 - Secondary,GH-1 (Regular 4),4140,4141,Maths,IGSCE,GH,1,STEM
+100,G10 - Secondary,PHY-A,4160,4161,Physics,IGSCE,A,1,STEM
+101,G10 - Secondary,PHY-B,4160,4161,Physics,IGSCE,A,2,STEM
+102,G10 - Secondary,PHY-C,4160,4161,Physics,IGSCE,A,3,STEM
+103,G10 - Secondary,PHY-D,4160,4161,Physics,IGSCE,A,4,STEM
+104,G10 - Secondary,PHY-E,4160,4161,Physics,IGSCE,A,5,STEM
+105,G10 - Secondary,PHY-F,4160,4161,Physics,IGSCE,A,6,STEM
+106,G10 - Secondary,PHY-G,4160,4161,Physics,IGSCE,A,7,STEM
+107,G10 - Secondary,PHY-H,4160,4161,Physics,IGSCE,A,8,STEM
+108,G11 - Secondary,AS Art & Design,5510,5511,Art,A-Level,A,1,EA
+109,G11 - Secondary,AS Music,5530,5531,Music,A-Level,A,1,EA
+110,G11 - Secondary,Theater HL/SL,5520,5521,Theatre,EA,A,1,EA
+111,G11 - Secondary,AS Business,5210,5211,Business,A-Level,A,1,Humanities
+112,G11 - Secondary,AS Economics-1,5220,5221,Economics,A-Level,A,1,Humanities
+113,G11 - Secondary,AS Economics-2,5220,5221,Economics,A-Level,A,2,Humanities
+114,G11 - Secondary,AS Economics-3,5220,5221,Economics,A-Level,A,3,Humanities
+115,G11 - Secondary,AS Economics-4,5220,5221,Economics,A-Level,A,4,Humanities
+116,G11 - Secondary,AS Geography,5230,5231,Geography_EN,A-Level,A,1,Humanities
+117,G11 - Secondary,AS Hums G-1,5710,5711,Geography(N),A-Level,A,1,Humanities
+118,G11 - Secondary,AS Hums G-2,5710,5711,Geography(N),A-Level,A,1,Humanities
+119,G11 - Secondary,AS Hums G-3,5710,5711,Geography(N),A-Level,A,2,Humanities
+120,G11 - Secondary,AS Hums G-4,5710,5711,Geography(N),A-Level,A,3,Humanities
+121,G11 - Secondary,AS Hums G-5,5710,5711,Geography(N),A-Level,A,4,Humanities
+122,G11 - Secondary,AS Hums G-6,5710,5711,Geography(N),A-Level,A,5,Humanities
+123,G11 - Secondary,AS Hums H-1,5720,5721,History,A-Level,B,1,Humanities
+124,G11 - Secondary,AS Hums H-2,5720,5721,History,A-Level,B,2,Humanities
+125,G11 - Secondary,AS Hums H-3,5720,5721,History,A-Level,B,3,Humanities
+126,G11 - Secondary,AS Hums H-4,5720,5721,History,A-Level,B,4,Humanities
+127,G11 - Secondary,AS Hums H-5,5720,5721,History,A-Level,B,5,Humanities
+128,G11 - Secondary,AS Hums H-6,5720,5721,History,A-Level,B,6,Humanities
+129,G11 - Secondary,AS Hums P-1,5730,5731,Politics,A-Level,C,1,Humanities
+130,G11 - Secondary,AS Hums P-2,5730,5731,Politics,A-Level,C,2,Humanities
+131,G11 - Secondary,AS Hums P-3,5730,5731,Politics,A-Level,C,3,Humanities
+132,G11 - Secondary,AS Hums P-4,5730,5731,Politics,A-Level,C,4,Humanities
+133,G11 - Secondary,AS Hums P-5,5730,5731,Politics,A-Level,C,5,Humanities
+134,G11 - Secondary,AS Hums P-6,5730,5731,Politics,A-Level,C,6,Humanities
+135,G11 - Secondary,IB Bus HL/SL,5410,5411,Business,IB,A,1,Humanities
+136,G11 - Secondary,IB Econ HL Block F,5422,5423,Economics,IB,A,1,Humanities
+137,G11 - Secondary,IB Econ HL/SL Block-D,5420,5421,Economics,IB,B,1,Humanities
+138,G11 - Secondary,IB Geo HL/SL,5430,5431,Geography_EN,IB,A,1,Humanities
+139,G11 - Secondary,IB TOK-1,5440,5441,TOK,IB,A,1,Humanities
+140,G11 - Secondary,IB TOK-2,5440,5441,TOK,IB,A,2,Humanities
+141,G11 - Secondary,AS Chinese-1,5450,5451,Chinese,A-Level,A,1,Languages
+142,G11 - Secondary,AS Chinese-2,5450,5451,Chinese,A-Level,A,2,Languages
+143,G11 - Secondary,English B SL-1,5610,5611,English,ESL,A,1,Languages
+144,G11 - Secondary,English B SL-2,5610,5611,English,ESL,A,2,Languages
+145,G11 - Secondary,English B SL-3,5610,5611,English,ESL,A,3,Languages
+146,G11 - Secondary,English B SL-4,5610,5611,English,ESL,A,4,Languages
+147,G11 - Secondary,English B SL-5,5610,5611,English,ESL,A,5,Languages
+148,G11 - Secondary,IB Chinese A HL-1,5454,5455,Chinese,IB,A,1,Languages
+149,G11 - Secondary,IB Chinese A SL,5450,5451,Chinese,IB,B,1,Languages
+150,G11 - Secondary,IB Chinese B HL/SL,5452,5453,Chinese,IB,C,1,Languages
+151,G11 - Secondary,IB Mandarin ab initio,5456,5457,Chinese,IB,C,1,Languages
+152,G11 - Secondary,IB English A SL/HL,5632,5633,English,IB,A,1,Languages
+153,G11 - Secondary,IB English B HL,5634,5635,English,IB,B,1,Languages
+154,G11 - Secondary,IB English B SL,5630,5631,English,IB,C,1,Languages
+155,G11 - Secondary,English IG-1,5620,5621,English,IGSCE,A,1,Languages
+156,G11 - Secondary,English IG-2,5620,5621,English,IGSCE,A,2,Languages
+157,G11 - Secondary,Chinese-1,5740,5741,Chinese(N),National,A,1,Languages
+158,G11 - Secondary,Chinese-2,5740,5741,Chinese(N),National,A,2,Languages
+159,G11 - Secondary,Chinese-3,5740,5741,Chinese(N),National,A,3,Languages
+160,G11 - Secondary,Chinese-4,5740,5741,Chinese(N),National,A,4,Languages
+161,G11 - Secondary,Chinese-5,5740,5741,Chinese(N),National,A,5,Languages
+162,G11 - Secondary,Chinese-6,5740,5741,Chinese(N),National,A,6,Languages
+163,G11 - Secondary,IB PE-1 11A,5810,5811,PE,IB,A,1,PE
+164,G11 - Secondary,AS PE,5810,5811,PE,PE,A,1,PE
+165,G11 - Secondary,AS PE-1 11C,5810,5811,PE,PE,A,2,PE
+166,G11 - Secondary,AS PE-2 11D,5810,5811,PE,PE,A,3,PE
+167,G11 - Secondary,AS PE-3 11E,5810,5811,PE,PE,A,4,PE
+168,G11 - Secondary,AS PE-4 11F,5810,5811,PE,PE,A,5,PE
+169,G11 - Secondary,AS PE-5 11G,5810,5811,PE,PE,A,6,PE
+170,G11 - Secondary,AS PE-6 11H,5810,5811,PE,PE,A,7,PE
+171,G11 - Secondary,AS Biology-1,5110,5111,Biology,A-Level,A,1,STEM
+172,G11 - Secondary,AS Biology-2,5110,5111,Biology,A-Level,A,2,STEM
+173,G11 - Secondary,AS Chemistry-1,5120,5121,Chemistry,A-Level,A,1,STEM
+174,G11 - Secondary,AS Chemistry-2,5120,5121,Chemistry,A-Level,A,2,STEM
+175,G11 - Secondary,AS Chemistry-3,5120,5121,Chemistry,A-Level,A,3,STEM
+176,G11 - Secondary,AS Computer Science,5130,5131,ComputerScience,A-Level,A,1,STEM
+177,G11 - Secondary,AS Maths (Advanced 1)(3),5152,5153,Maths,A-Level,A,1,STEM
+178,G11 - Secondary,AS Maths (Advanced 1)(7),5152,5153,Maths,A-Level,A,2,STEM
+179,G11 - Secondary,AS Maths (Fast 1),5150,5151,Maths,A-Level,B,1,STEM
+180,G11 - Secondary,AS Maths (Fast 2),5150,5151,Maths,A-Level,B,2,STEM
+181,G11 - Secondary,AS Maths (Regular 1),5140,5141,Maths,A-Level,C,1,STEM
+182,G11 - Secondary,AS Maths (Regular 2),5140,5141,Maths,A-Level,C,2,STEM
+183,G11 - Secondary,AS Maths (Regular 3),5140,5141,Maths,A-Level,C,3,STEM
+184,G11 - Secondary,AS Maths (Regular 4),5140,5141,Maths,A-Level,C,4,STEM
+185,G11 - Secondary,AS Physics-1,5160,5161,Physics,A-Level,A,1,STEM
+186,G11 - Secondary,AS Physics-2,5160,5161,Physics,A-Level,A,2,STEM
+187,G11 - Secondary,AS Physics-3,5160,5161,Physics,A-Level,A,3,STEM
+188,G11 - Secondary,AS Physics-4,5160,5161,Physics,A-Level,A,4,STEM
+189,G11 - Secondary,IB Bio HL/SL 1,5310,5311,Biology,IB,A,1,STEM
+190,G11 - Secondary,IB Bio HL/SL 2,5310,5311,Biology,IB,A,2,STEM
+191,G11 - Secondary,IB Chem HL Block-F,5322,5323,Chemistry,IB,A,1,STEM
+192,G11 - Secondary,IB Chem SL Block-E,5320,5321,Chemistry,IB,B,1,STEM
+193,G11 - Secondary,IB HL Maths ISP,5352,5353,Maths,IB,A,1,STEM
+194,G11 - Secondary,IB Math HL,5350,5351,Maths,IB,A,1,STEM
+195,G11 - Secondary,IB Math SL,5340,5341,Maths,IB,B,1,STEM
+196,G11 - Secondary,IB Phy HL,5362,5363,Physics,IB,A,1,STEM
+197,G11 - Secondary,IB Phy SL,5360,5361,Physics,IB,B,1,STEM
+198,G12 - Secondary,A2 Art,6510,6511,Art,A-Level,A,1,EA
+199,G12 - Secondary,A2 Music,6530,6531,Music,A-Level,A,1,EA
+200,G12 - Secondary,A2 Economics-1,6220,6221,Economics,A-Level,A,1,Humanities
+201,G12 - Secondary,A2 Economics-2,6220,6221,Economics,A-Level,A,2,Humanities
+202,G12 - Secondary,A2 Economics-3,6220,6221,Economics,A-Level,A,3,Humanities
+203,G12 - Secondary,A2 Geography,6230,6231,Geography_EN,A-Level,A,1,Humanities
+204,G12 - Secondary,IB Economics HL/SL,6420,6421,Economics,IB,A,1,Humanities
+205,G12 - Secondary,IB Geography HL/SL,6430,6431,Geography_EN,IB,A,1,Humanities
+206,G12 - Secondary,IB TOK,6440,6441,TOK,IB,A,1,Humanities
+207,G12 - Secondary,English for Academic Purposes,6620,6621,English,ESL,A,1,Languages
+208,G12 - Secondary,English-1,6610,6611,English,ESL,B,1,Languages
+209,G12 - Secondary,English-2,6610,6611,English,ESL,B,2,Languages
+210,G12 - Secondary,English-3,6610,6611,English,ESL,B,3,Languages
+211,G12 - Secondary,IB Chinese HL/SL,6450,6451,Chinese,IB,A,1,Languages
+212,G12 - Secondary,IB English HL/SL,6640,6641,English,IB,A,1,Languages
+213,G12 - Secondary,AL1 PE 12B,6810,6811,PE,PE,A,2,PE
+214,G12 - Secondary,AL2 PE 12C,6810,6811,PE,PE,A,3,PE
+215,G12 - Secondary,AL3 PE 12D,6810,6811,PE,PE,A,4,PE
+216,G12 - Secondary,IB PE 12A,6810,6811,PE,PE,A,5,PE
+217,G12 - Secondary,A2 Biology,6110,6111,Biology,A-Level,A,1,STEM
+218,G12 - Secondary,A2 Chemistry-1,6120,6121,Chemistry,A-Level,A,1,STEM
+219,G12 - Secondary,A2 Chemistry-2/3,6120,6121,Chemistry,A-Level,A,2,STEM
+220,G12 - Secondary,A2 CS,6130,6131,ComputerScience,A-Level,A,1,STEM
+221,G12 - Secondary,Maths(Advanced),6152,6153,Maths,A-Level,A,1,STEM
+222,G12 - Secondary,Maths (Fast) Block-C(3),6150,6151,Maths,A-Level,B,1,STEM
+223,G12 - Secondary,Maths (Fast) Block-D(7),6150,6151,Maths,A-Level,B,2,STEM
+224,G12 - Secondary,Maths (Reg-1),6140,6141,Maths,A-Level,C,1,STEM
+225,G12 - Secondary,Maths (Reg-2),6140,6141,Maths,A-Level,C,2,STEM
+226,G12 - Secondary,A2 Physics-1,6160,6161,Physics,A-Level,A,1,STEM
+227,G12 - Secondary,A2 Physics-2,6160,6161,Physics,A-Level,A,2,STEM
+228,G12 - Secondary,A2 Physics-3,6160,6161,Physics,A-Level,A,3,STEM
+229,G12 - Secondary,IB Biology HL/SL,6310,6311,Biology,IB,A,1,STEM
+230,G12 - Secondary,IB Chemistry HL/SL,6320,6321,Chemistry,IB,A,1,STEM
+231,G12 - Secondary,Further Statistics ISP,6356,6357,Statistics,IB,A,1,STEM
+232,G12 - Secondary,IB Maths HL/SL,6350,6351,Maths,IB,A,1,STEM
+233,G12 - Secondary,IB Physics HL/SL,6360,6361,Physics,IB,A,1,STEM
